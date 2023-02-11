@@ -10,7 +10,7 @@ def diff_of_nums():
 
     d = int(input())
     e = int(input())
-    f = d + e
+    f = d - e
     print(f)
 
 
